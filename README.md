@@ -3,19 +3,19 @@ Rewrite in Markdown
 
 # Introduction
 
-Hi! My name is Moriah Johnson, and this is my senior year of TWC.
+Hi! My name is Moriah Johnson, and 2024-2025 is my senior year of the technical writing and communication major.
 
 ## Background
 
-**I come to 4662W with some experience, but I will definitely still benefit from this class!!**
+**I come to 4662W with some experience, but I will still benefit from this class!**
+
+### DITA   
+
+During my summer internship at Graco manufacturing, I learned and practiced DITA XML using Oxygen Author. We converted DITA topics from Arbortext into Oxygen, then migrated the files into Teamcenter content management system for desktop publishing. For me, the best way to learn DITA was to jump into a project headfirst and work things out through trial, error, and plenty of Google searches. It was helpful to have a background in HTML since the two languages share qualities.
 
 ### HTML
 
 I am comfortable with HTML and CSS, as they were used in my previous job's content management system. Additionally, I took Web Design last semester, which taught the concepts more in-depth. In web design, I used HTML to create graphics and moving images rather than text exclusively. Before these projects, I had relied exclusively on an online text editor to validate my entries for me, but the projects taught me to write code from scratch.
-
-### DITA   
-
-I spent my summer internship learning about and practicing DITA XML using Oxygen Author. We converted DITA topics from Arbortext into Oxygen, then migrated the files into Teamcenter content management system for desktop publishing. For me, the best way to learn DITA was to jump into a project headfirst and work things out through trial, error, and plenty of Google searches. It was helpful to have a background in HTML since the two languages share qualities.
 
 ## Learning interests
 
